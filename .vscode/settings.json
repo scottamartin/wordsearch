@@ -1,0 +1,12 @@
+{
+    "python.linting.enabled": true,
+    "python.linting.pylintArgs": [
+        "--disable=E501,W391,C0111"
+    ],
+    "files.exclude": {
+        "**/.git": true,
+        "**/.hg": true,
+        "**/.DS_Store": true,
+        "**/*.pyc": true
+    }
+}
