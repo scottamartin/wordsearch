@@ -1,7 +1,7 @@
 {
     "python.linting.enabled": true,
     "python.linting.pylintArgs": [
-        "--disable=E501,W391,C0111"
+        "--disable=E501,W391,C0111,W0612"
     ],
     "files.exclude": {
         "**/.git": true,
